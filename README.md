@@ -31,6 +31,11 @@ Welcome to the Quiz Platform in C! This project aims to revolutionize education 
 
 # Note:
  The project is developed in Dec C++ software. Please make sure you have created a new project. The instructions below describe steps to add music to the program in Dev C++ software.
+ Temporary login credentials- 
+ 1. Teacher(For login)- Username: teacher , Password:tec123
+ 2. Teacher(For checking result)- Username:staff , Password:result@123
+ 3. Student- Username:student , Password:pass1234
+ 4. In teacher section, to open any result file, please type name of file display on screen.
 
 
 
