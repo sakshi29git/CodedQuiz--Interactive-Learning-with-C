@@ -1,4 +1,4 @@
-# CodedQuiz: Interactive Learning with C
+# CodedQuiz: Interactive Learning with C Language
  
 
 # Overview 
