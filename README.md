@@ -1,6 +1,6 @@
 # CodedQuiz: Interactive Learning with C
  
-Title: CodedQuiz: Interactive Learning with C
+
 # Overview 
 Welcome to the Quiz Platform in C! This project aims to revolutionize education by providing a comprehensive quiz platform with user authentication, performance tracking, and multimedia integration. Whether you're a teacher managing quizzes or a student engaging in diverse quiz types, this platform has you covered.
 
